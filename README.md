@@ -63,4 +63,4 @@ My work is operational and applied: designing AI pipelines that solve real probl
 
 ---
 
-![Matt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wmgmm&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wmgmm&theme=dark&hide_border=true)
