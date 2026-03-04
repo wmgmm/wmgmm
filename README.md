@@ -10,7 +10,7 @@ My work is operational and applied: designing AI pipelines that solve real probl
 
 ### 🔭 What I Do
 
-- **AI in the Workplace:** Co-delivering practical, responsible AI training programmes with Matthew Hayden across Welsh Government, NHS, and public sector organisations — helping teams work smarter with AI as an everyday assistant.
+- **AI in the Workplace:** Co-delivering practical, responsible AI training programmes with Matthew Hayden across public sector organisations — helping teams work smarter with AI as an everyday assistant for personal productivity.
 - **Train the Trainer:** Equipping organisations to scale AI adoption internally by training their own facilitators to deliver *"AI in the Workplace"* independently.
 - **Clinical AI:** Applying AI and machine learning to clinical genetics, variant classification, and medical data science — bridging the gap between cutting-edge AI and real-world clinical practice.
 - **HGMD & Clinical Genetics:** Co-inventor and lead of the **Human Gene Mutation Database**, licensed globally through **Qiagen**. Building AI-native pipelines for genetic variant classification and research paper analysis.
