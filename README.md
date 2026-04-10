@@ -4,7 +4,7 @@
 
 I am 50% of **The Matts** with a **Bioinformatics & Machine Learning PhD** with over **25 years' experience** in genetics, bioinformatics, machine learning and clinical data science. I lead the **Human Gene Mutation Database (HGMD)** the global standard for clinical genetics where I develop AI-driven pipelines for genetic variant classification and research paper processing.
 
-My work is operational and applied: designing AI pipelines that solve real problems, automating legacy processes, and training teams to use AI effectively in their day-to-day work. With Matthew Hayden (the other Matt) we developed the **AI in the Workplace** workshop and founded the **Cardiff University AI Community** (1,000+ members) with a focus on practical adoption over hype — getting AI into workflows where it actually makes a difference.
+My work is operational and applied: designing AI pipelines that solve real problems, automating legacy processes, and training teams to use AI effectively in their day-to-day work. With Matthew Hayden (the other Matt) we developed the **AI in the Workplace** workshop and founded the **Cardiff University AI Community** (1,000+ members) with a focus on practical adoption over hype by building AI into workflows where it actually makes a difference.
 
 ---
 
